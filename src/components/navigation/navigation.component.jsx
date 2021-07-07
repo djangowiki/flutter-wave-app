@@ -13,22 +13,22 @@ const Navigation = () => {
             <div className='nav-menu-items-wrapper'>
                 <ul className='nav-menu-items-list'> 
                     <li className='nav-menu-item'>
-                        <a href='#' className='nav-menu-item-link'>Our Solutions</a>
+                        <a href='https://www.flutterwave.com' className='nav-menu-item-link'>Our Solutions</a>
                     </li>
                     <li className='nav-menu-item'>
-                        <a href='#' className='nav-menu-item-link'>Developers</a>
+                        <a href='https://www.flutterwave.com' className='nav-menu-item-link'>Developers</a>
                     </li>
                     <li className='nav-menu-item'>
-                        <a href='#' className='nav-menu-item-link'>Resources</a>
+                        <a href='https://www.flutterwave.com' className='nav-menu-item-link'>Resources</a>
                     </li>
                     <li className='nav-menu-item'>
-                        <a href='#' className='nav-menu-item-link'>Pricing</a>
+                        <a href='https://www.flutterwave.com' className='nav-menu-item-link'>Pricing</a>
                     </li>
                     <li className='nav-menu-item'>
-                        <a href='#' className='nav-menu-item-link'>Sign In</a>
+                        <a href='https://www.flutterwave.com' className='nav-menu-item-link'>Sign In</a>
                     </li>
                     <li className='nav-menu-item'>
-                        <a href='#' className='nav-menu-item-link sign-up'>Create An Account</a>
+                        <a href='https://www.flutterwave.com' className='nav-menu-item-link sign-up'>Create An Account</a>
                     </li>
                 </ul>
             </div>

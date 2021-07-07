@@ -2,7 +2,7 @@ import React from 'react'
 import './business.styles.css'
 
 // Assets
-import partner1 from '../../res/img/alat logo.svg'
+// import partner1 from '../../res/img/alat logo.svg'
 import partner2 from '../../res/img/barter logo.svg'
 import partner3 from '../../res/img/booking.com logo.svg'
 import partner4 from '../../res/img/fibre logo.svg'
@@ -12,7 +12,7 @@ import partner7 from '../../res/img/gigm logo.svg'
 import partner8 from '../../res/img/hotels.ng logo.svg'
 import partner9 from '../../res/img/hygeia logo.svg'
 import partner10 from '../../res/img/jumia logo.svg'
-import partner11 from '../../res/img/max.ng logo.svg'
+// import partner11 from '../../res/img/max.ng logo.svg'
 import partner12 from '../../res/img/muster logo.svg'
 import partner13 from '../../res/img/nairabox logo.svg'
 import partner14 from '../../res/img/quidax logo.svg'
@@ -65,7 +65,7 @@ const Business = () => {
                     big and small, trust Flutterwave for growth.</h1>
                 <p className='business-paragraph'>Flutterwave supports some of
                  the best businesses all over the world.</p>
-                 <a href='#' className='business-link'>CHECK OUT OUR CUSTOMER SUCCESS STORIES</a>
+                 <a href='https://www.flutterwave.com' className='business-link'>CHECK OUT OUR CUSTOMER SUCCESS STORIES</a>
             </div>
             </div>
         </div>

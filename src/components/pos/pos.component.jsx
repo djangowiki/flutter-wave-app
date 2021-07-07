@@ -12,7 +12,7 @@ const POS = ()=> {
              for your customers.</h1>
             <div className='pos-content'>
                 <div className='image-wrapper'>
-                <img src={posImage} className='pos-image'/>
+                <img src={posImage} alt='img6' className='pos-image'/>
                 </div>
                
                 <div className='pos-info'>
