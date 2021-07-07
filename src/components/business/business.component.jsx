@@ -28,34 +28,34 @@ const Business = () => {
             <div className='business-carousel'>
             <ul className='carousel-list'>
                 <div className='carousel-wrapper'>
-                <li className='carousel-item'><img src={partner10}/></li>
-                <li className='carousel-item'><img src={partner2}/></li>
-                <li className='carousel-item'><img src={partner3}/></li>
+                <li className='carousel-item'><img alt='img1' src={partner10}/></li>
+                <li className='carousel-item'><img alt='img2' src={partner2}/></li>
+                <li className='carousel-item'><img alt='img3' src={partner3}/></li>
                 </div>
                 <div className='carousel-wrapper'>
-                <li className='carousel-item'><img src={partner4}/></li>
-                <li className='carousel-item'><img src={partner5}/></li>
-                <li className='carousel-item'><img src={partner6}/></li>
+                <li className='carousel-item'><img alt='img4' src={partner4}/></li>
+                <li className='carousel-item'><img alt='img5' src={partner5}/></li>
+                <li className='carousel-item'><img alt='img6' src={partner6}/></li>
                 </div>
                 <div className='carousel-wrapper'>
-                <li className='carousel-item'><img src={partner7}/></li>
-                <li className='carousel-item'><img src={partner8}/></li>
-                <li className='carousel-item'><img src={partner9}/></li>
+                <li className='carousel-item'><img alt='img7' src={partner7}/></li>
+                <li className='carousel-item'><img alt='img8' src={partner8}/></li>
+                <li className='carousel-item'><img alt='img9' src={partner9}/></li>
                 </div>
                 <div className='carousel-wrapper'>
-                <li className='carousel-item'><img src={partner10}/></li>
-                <li className='carousel-item'><img src={partner3}/></li>
-                <li className='carousel-item'><img src={partner12}/></li>
+                <li className='carousel-item'><img alt='img10' src={partner10}/></li>
+                <li className='carousel-item'><img alt='img11' src={partner3}/></li>
+                <li className='carousel-item'><img alt='img12' src={partner12}/></li>
                 </div>
                 <div className='carousel-wrapper'>
-                <li className='carousel-item'><img src={partner13}/></li>
-                <li className='carousel-item'><img src={partner14}/></li>
-                <li className='carousel-item'><img src={partner15}/></li>
+                <li className='carousel-item'><img alt='img13' src={partner13}/></li>
+                <li className='carousel-item'><img alt='img14' src={partner14}/></li>
+                <li className='carousel-item'><img alt='img15' src={partner15}/></li>
                 </div>
                 <div className='carousel-wrapper'>
-                <li className='carousel-item'><img src={partner16}/></li>
-                <li className='carousel-item'><img src={partner17}/></li>
-                <li className='carousel-item'><img src={partner3}/></li>
+                <li className='carousel-item'><img alt='img16' src={partner16}/></li>
+                <li className='carousel-item'><img alt='img17' src={partner17}/></li>
+                <li className='carousel-item'><img alt='img18' src={partner3}/></li>
                 </div>
             </ul>
             </div>

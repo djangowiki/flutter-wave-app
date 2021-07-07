@@ -15,7 +15,7 @@ const Card = () => {
                 <p className='card-paragraph'>Using the Flutterwave API, you can instantly create and manage virtual cards. Cards can be used instantly through mobile wallets and global websites.</p>
                 <h5 className='card-heading'>Create new FinTech businesses</h5>
                 <p className='card-paragraph'>With just a few lines of Issuing API code, the possibilities for your new FinTech business(es) are endless.</p>
-                <a href='#' className='card-link'>LEARN MORE ABOUT CARD ISSUING</a>
+                <a href='http://www.flutterwave.com' className='card-link'>LEARN MORE ABOUT CARD ISSUING</a>
             </div>
             <div className='card-video'>
                 <video className='card-movie' autoPlay={true} muted={true} loop>
