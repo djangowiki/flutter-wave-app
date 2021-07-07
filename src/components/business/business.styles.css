@@ -1,0 +1,66 @@
+.business {
+  background-color: honeydew;
+}
+
+.business-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  width: 80%;
+  margin: 0 14rem 0 14rem;
+}
+
+.business-carousel {
+  padding: 1.5rem;
+  animation: linear;
+  flex: 0 1 40%;
+}
+
+.carousel-list {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
+
+.carousel-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel-item {
+  margin: 1.5rem;
+  box-shadow: 0 0 15px rgba(136, 153, 166, 0.2),
+    0 0 3px 1px rgba(136, 153, 166, 0.15);
+  padding: 1rem;
+  border-radius: 1rem;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.business-info {
+  margin: 12rem 8rem 0 8rem;
+  flex: 1 1;
+}
+
+.business-heading {
+  font-size: 4.2rem;
+  color: #333333;
+  margin-bottom: 3rem;
+}
+
+.business-paragraph {
+  font-size: 2rem;
+  color: #333333;
+  font-weight: 300;
+  margin-bottom: 5rem;
+}
+
+.business-link {
+  color: orange;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  font-weight: 900;
+}

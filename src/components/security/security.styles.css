@@ -1,0 +1,42 @@
+.security {
+  background: linear-gradient(to bottom, #f4f6f8, #f4f6f8);
+  width: 100%;
+  padding: 10rem 0;
+}
+.security-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 80%;
+  margin: 0 14rem 0 14rem;
+}
+
+.video-info {
+  margin: 0 8rem;
+}
+
+.security-heading {
+  font-size: 5rem;
+  color: #333333;
+  margin-bottom: 2.5rem;
+}
+
+.security-paragraph {
+  font-size: 1.7rem;
+  font-weight: 300;
+  color: #333333;
+  margin-bottom: 2.5rem;
+}
+
+.security-sub-heading {
+  color: #0f1c70;
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+}
+
+.video-wrapper {
+}
+
+.video {
+  width: 45rem;
+}

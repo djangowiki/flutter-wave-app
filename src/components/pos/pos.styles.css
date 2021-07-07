@@ -1,0 +1,108 @@
+.pos {
+  background: linear-gradient(to top, #f4f6f8, #f4f6f8);
+  width: 100%;
+  padding-bottom: 10rem;
+}
+
+.pos-wrapper {
+  width: 80%;
+  margin: 0 14rem 0 14rem;
+}
+
+.pos-heading {
+  font-size: 3.6rem;
+  margin: 0 auto;
+  padding: 6rem;
+  width: 70rem;
+  color: #0f1c70;
+  text-align: center;
+  line-height: 4.7rem;
+}
+
+.pos-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.image-wrapper {
+  width: 120rem;
+  height: 100%;
+  margin: 0 6rem;
+}
+
+.pos-image {
+  width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  /* flex: 0 1 20%; */
+}
+
+.pos-info {
+  display: flex;
+  flex-direction: column;
+  /* flex: 1 1 70%; */
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.pos-info-heading {
+  font-size: 4rem;
+  width: 40rem;
+  padding: 2rem 0;
+}
+
+.pos-info-paragraph {
+  font-size: 2rem;
+  padding: 0 0 3.2rem 0;
+}
+
+.pos-info-features {
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+.pos-info-features-heading {
+  color: #0f1c70;
+  font-size: 1.8rem;
+  margin: 1rem 0.5rem;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.pos-info-features-paragraph {
+  font-size: 1.6rem;
+  line-height: 2.2rem;
+  margin: 1rem 0.5rem;
+}
+
+.pos-list {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-top: 1.6rem;
+  list-style: none;
+  position: relative;
+}
+
+.list-wrapper {
+  margin: 0 3rem;
+}
+
+.pos-list-item {
+  margin-bottom: 2.5rem;
+  font-size: 1.6rem;
+  position: relative;
+}
+
+.check-box::before {
+  content: '';
+  background: url('../../res/img/check.svg') no-repeat center;
+  background-size: 10rem;
+  background-color: #d3d7f2;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 100%;
+  position: absolute;
+  top: 0;
+  left: -3.5rem;
+}

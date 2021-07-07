@@ -1,0 +1,38 @@
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 0 14rem 0 14rem;
+}
+
+.card-heading-big {
+  font-size: 4.5rem;
+  color: #333333;
+  margin-bottom: 2.5rem;
+}
+
+.card-paragraph {
+  font-size: 1.6rem;
+  color: #333333;
+  margin-bottom: 2.5rem;
+}
+
+.card-heading {
+  color: #0f1c70;
+  font-size: 1.8rem;
+  margin-bottom: 2.5rem;
+}
+
+.card-link {
+  color: orange;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  margin-top: 5rem;
+  display: block;
+  font-size: 1.5rem;
+}
+
+.card-movie {
+  width: 50rem;
+}
